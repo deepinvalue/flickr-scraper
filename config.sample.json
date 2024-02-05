@@ -1,0 +1,16 @@
+{
+  "api_key": "YOUR_FLICKR_API_KEY_HERE",
+  "user_agent": "Your custom User-Agent here",
+  "robottxt_obey": true,
+  "images_store": "path/to/store/your/images",
+  "categories": {
+    "category_1": {
+      "tags": "list,up,to,20,tags,here,separated,by,commas",
+      "total_photos_limit": 10000
+    },
+    "category_2": {
+      "tags": "list,up,to,20,tags,here,separated,by,commas",
+      "total_photos_limit": 10000
+    }
+  }
+}

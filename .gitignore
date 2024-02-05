@@ -1,0 +1,5 @@
+config.json
+images/
+*.pyc
+__pycache__/
+.scrapy/
